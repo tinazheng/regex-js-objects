@@ -15,3 +15,5 @@ var passesRegExpFilter = function(obj, filter) {
    }
    return false;
 }
+
+module.exports = passesRegExpFilter;
