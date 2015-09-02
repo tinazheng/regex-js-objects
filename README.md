@@ -1,5 +1,5 @@
 # regex-js-objects
-Regex filtering of JavaScript object keys
+Regex filtering of JavaScript object values
 
 This is a function to see if a javascript object has value(s) that match a string using regular expressions. It supports nested objects. It does not check for keys.
 
